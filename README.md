@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Somos Grupo Nex
+A través de software y de nuestras capacidades, creamos nuevos modelos de negocio, contribuimos a la eficiencia de procesos y  diseñamos experiencias de usuario para sitios web, aprendizaje en línea, comercio electrónico y plataformas digitales.
 <!--
 **NEX-Group-Col/NEX-Group-Col** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
